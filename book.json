@@ -54,7 +54,7 @@
            },
        "prism":{
 			"css":[
-				"prism-themes/themes/prism-night-owl.css"
+				"prism-themes/themes/prism-darcula.css"
 			]
        },
        "sectionx": {
